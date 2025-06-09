@@ -5,6 +5,17 @@ window.Framework = {
         name:"embred-frame",
         clientIds: {
             'usw2.pure.cloud': '6c7d0033-ac58-40d0-962a-93debe113ede'
+           //"cac1.pure.cloud": "<your OAuth Client ID>",
+           // "sae1.pure.cloud": "<your OAuth Client ID>",
+           // "mypurecloud.com": "<your OAuth Client ID>",
+           // "usw2.pure.cloud": "<your OAuth Client ID>",
+           // "aps1.pure.cloud": "<your OAuth Client ID>",
+           // "apne2.pure.cloud": "<your OAuth Client ID>",
+           // "mypurecloud.com.au": "<your OAuth Client ID>",
+           // "mypurecloud.jp": "<your OAuth Client ID>",
+           // "mypurecloud.ie": "<your OAuth Client ID>",
+           // "mypurecloud.de": "<your OAuth Client ID>",
+           // "euw2.pure.cloud": "<your OAuth Client ID>"
         },
         customInteractionAttributes: ['PT_URLPop', 'PT_SearchValue', 'PT_TransferContext'],
         settings: {
