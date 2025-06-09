@@ -5,13 +5,13 @@ window.Framework = {
         //name:"embred-frame",
         name:"genesyskorea1",
         clientIds: {
-            'apne2.pure.cloud': '6c7d0033-ac58-40d0-962a-93debe113ede'
+            'apne2.pure.cloud': '67d78433-9da7-48d8-bf4a-166220622ed3'
            //"cac1.pure.cloud": "<your OAuth Client ID>",
            // "sae1.pure.cloud": "<your OAuth Client ID>",
            // "mypurecloud.com": "<your OAuth Client ID>",
-           // "usw2.pure.cloud": "<your OAuth Client ID>",
+           // "usw2.pure.cloud": "6c7d0033-ac58-40d0-962a-93debe113ede",
            // "aps1.pure.cloud": "<your OAuth Client ID>",
-           // "apne2.pure.cloud": "<your OAuth Client ID>",
+           // "apne2.pure.cloud": "67d78433-9da7-48d8-bf4a-166220622ed3",
            // "mypurecloud.com.au": "<your OAuth Client ID>",
            // "mypurecloud.jp": "<your OAuth Client ID>",
            // "mypurecloud.ie": "<your OAuth Client ID>",
