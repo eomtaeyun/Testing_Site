@@ -3,9 +3,9 @@ var contactSearchCallback;
 window.Framework = {
     config: {
         //name:"embred-frame",
-        name:"genesyskorea1",
+        name:"mps",
         clientIds: {
-            'apne2.pure.cloud': '67d78433-9da7-48d8-bf4a-166220622ed3'
+            'apps.mypurecloud.com': '4c80b565-1bc4-4e9a-8549-126e81930706'
            //"cac1.pure.cloud": "<your OAuth Client ID>",
            // "sae1.pure.cloud": "<your OAuth Client ID>",
            // "mypurecloud.com": "<your OAuth Client ID>",
