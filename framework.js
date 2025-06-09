@@ -1,9 +1,10 @@
 //version_02
 window.Framework = {
     config: {
-        name: "AcmeCRM",
+        name: "genesyskorea1",
         clientIds: {
-            'usw2.pure.cloud': '6c7d0033-ac58-40d0-962a-93debe113ede'
+            //'usw2.pure.cloud': '6c7d0033-ac58-40d0-962a-93debe113ede'  https://apps.apne2.pure.cloud
+            'apne2.pure.cloud': '67d78433-9da7-48d8-bf4a-166220622ed3'
         },
         settings: {
             embedWebRTCByDefault: true,
